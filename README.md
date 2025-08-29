@@ -43,7 +43,7 @@ A PAN is considered **valid** only if it satisfies all of the following conditio
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/PAN_Validation_Project.git](https://github.com/YOUR_USERNAME/PAN_Validation_Project.git)
+git clone https://github.com/Sethu0073/PAN_Validation_Project.git
 cd PAN_Validation_Project
 ```
 
